@@ -1,0 +1,1 @@
+This repo contains the manifest files to deploy this flask app https://github.com/ibrahimanis081/jenkins_pipeline.git to Kubernetes through argocd, a separate repo was created to avoid triggering a jenkins build anytime a change pushed to the repo.
